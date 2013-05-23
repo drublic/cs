@@ -1,4 +1,5 @@
 // Merge sort
+// O(n log n)
 
 var merge = function (left, right) {
 	var result = [];

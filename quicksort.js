@@ -1,4 +1,5 @@
 // Quicksort
+// O(n log n)
 
 var list = [9,5,7,3,10,11];
 

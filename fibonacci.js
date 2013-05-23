@@ -1,4 +1,5 @@
 // Fibonacci
+// O(n^2)
 var fib = function (all) {
 	var result = all[all.length - 1] + all[all.length - 2];
 
